@@ -10,7 +10,7 @@ function Chechout() {
         <div className="checkout">
             <div className="checkout__left">
                 <img className="checkout__ad"
-                src="https://media.istockphoto.com/photos/ecommerce-internet-online-shopping-and-delivery-concept-household-picture-id867810472"
+                src="https://sm.mashable.com/t/mashable_sea/post/w/what-we-kn/what-we-know-about-prime-day-so-far_vxdk.960.png"
                 alt="" 
                 />
                 <div>

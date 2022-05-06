@@ -22,7 +22,7 @@ function App() {
   useEffect(() => {
     // will only run when app component loads...//kind of if statement in react
     auth.onAuthStateChanged((authUser) => {
-      console.log("the user is ", authUser);
+      console.log("The User is now ", authUser);
 
       if (authUser) {
         //the user just logged in / user was log in

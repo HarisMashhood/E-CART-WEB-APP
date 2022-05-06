@@ -40,7 +40,7 @@ function Login() {
         <div className='login'>
             <Link to ='/'>
             <img className="login__logo" 
-            src='https://img.favpng.com/4/13/6/e-commerce-shopping-cart-software-amazon-com-online-shopping-png-favpng-4Qtxm85prRnQyqrAppQVmSJaV.jpg'
+            src='https://mark.trademarkia.com/logo-images/ecart/ecart-77532251.jpg'
             alt="" />
             </Link>
 
@@ -54,8 +54,8 @@ function Login() {
 
                   <h5>Password</h5>
                   <input type='password' value={password} 
-                  onChange={e => setPassword(e.target.value)} />
-
+                  onChange={e => setPassword(e.target.value)}/>
+                                
                   <button type="submit" onClick={signIn}
                   className="login__signInButton">Sign In</button>
               </form>

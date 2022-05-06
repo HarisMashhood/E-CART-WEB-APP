@@ -31,7 +31,7 @@ const [{ basket }, dispatch] = useStateValue();
                 <div className="checkoutProduct__rating">
                     {Array(rating)
                     .fill().map((_, i)=>(
-                        <p>⭐</p>
+                        <p>★</p>
                     ))}
                 </div>
                 {!hideButton && (

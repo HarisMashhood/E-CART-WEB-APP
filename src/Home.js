@@ -5,7 +5,7 @@ function Home() {
     return (
         <div className="home"> 
            <div className="home__container">
-               <img className="home__image" src="https://media.istockphoto.com/photos/abstract-blue-background-empty-blue-gradient-room-studio-background-picture-id1315778698?b=1&k=20&m=1315778698&s=170667a&w=0&h=72n09-pFKW8e9C9TPGvD0Hu7UOlNhG74pYHuLzuroSE="
+               <img className="home__image" src="https://t3.ftcdn.net/jpg/01/17/33/22/240_F_117332203_ekwDZkViF6M3itApEFRIH4844XjJ7zEb.jpg"
                alt=""/>
                <h1 className='home__category'>Mobile Phones</h1>
                <div className="home__row">
