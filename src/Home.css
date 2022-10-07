@@ -4,6 +4,16 @@
     margin-left: auto;
     margin-right: auto;
     max-width: 1500px;
+    display: flex;
+}
+@media only screen and (max-width: 1280px) {
+    /* Write your code here */
+    .home{
+        display: flex;
+        flex-direction: column;
+        flex-wrap: wrap !important;
+        width: 100vw;
+    }
 }
 .home__category {
     color: #2e343a;
